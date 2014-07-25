@@ -113,7 +113,7 @@ render.animation(stergm.sim.1,render.par=render.par,
 saveVideo(ani.replay(),video.name="stergm.sim.1.mp4", 
           other.opts="-pix_fmt yuv420p",clean=TRUE)
 
-################# Tongfang Sun  ###################
+################# Tongfang Sun  ###################library
 ################# code save Gif ###################
 ###################################################
 saveMovie(ani.replay(), movie.name = "animation.gif",
